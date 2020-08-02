@@ -381,7 +381,7 @@ Preloader page
       50% {
         box-shadow: -13px 20px 0 rgba(102,102, 255,0.2), 13px 20px 0 rgba(102,102, 255,0.2), 13px 46px 0 #6666ff, -13px 46px 0 rgba(102,102, 255,0.2); }
         75% {
-          box-shadow: -13px 20px 0 rgba(102,102, 255,0.2), 13px 20px 0 rgba(102,102, 255,0.2), 13px 46px 0 rgba(102,102, 255,0.2), -13px 46px 0 #6666ff; } }
+          box-shadow: -13px 20px 0 rgba(102,102, 255,0.2), 13px 20px 0 rgba(102,102, 255,0.2), 13px 46px 0 rgba(102,102, 255,0.2), -13px 46px 0 #6666ff; } 
         }
 
 
@@ -1679,24 +1679,20 @@ footer p.sucess-message {
 }
 .hide { display: none; }
 
-@media screen and (max-width: 991px){
-  .right-nav{
-    display: none;
+@media screen and (min-width: 992px){
+  .menu-nav-trigger{display: none;}
+  .right-nav{margin-right: 0px !important;} 
+  .right-nav ul li{ margin-right: 20px !important;} 
+  .container-page{margin-bottom: 70px;}
   }
-  .container-page{
-    margin-bottom: 70px;
-  }
-  }
-  @media screen and (max-width: 992px){
-    .menu-nav-trigger{
-      display: none;
-    }
+  @media screen and (max-width: 991px){
     .right-nav{
-      margin-left: 20px;
+      display: none;
     }
   }
   @media screen and (max-width: 767px){
-   .container-page{
-     display: none;
-   }
+   .infoholder{display: none;}
+  }
+  @media screen and (min-width: 768px){
+    .container-page{margin-bottom: 50px;}
   }
