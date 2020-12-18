@@ -3,12 +3,28 @@
 
 <head>
     <!--Metas-->
+    <title>Pandascrow - Modern Escrow System for Africa</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Scrow - Modern Escrow System for Africa">
-    <title>Scrow - Modern Escrow System for Africa</title>
+    <meta name="title" content="Pandascrow - Modern Escrow System for Africa">
+    <meta name="description" content="Pandascrow - Modern Escrow System for Africa">
 
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://pandascrow.io/">
+    <meta property="og:title" content="Pandascrow - Modern Escrow System for Africa">
+    <meta property="og:description" content="Stay safe, transparent & secure with scrow. Protect yourself from fraud over anonymous transactions.">
+    <meta property="og:image" content="./assets/images/pandascrow.io cover.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://pandascrow.io/">
+    <meta property="twitter:title" content="Pandascrow - Modern Escrow System for Africa">
+    <meta property="twitter:description" content="Stay safe, transparent & secure with scrow. Protect yourself from fraud over anonymous transactions.">
+    <meta property="twitter:image" content="./assets/images/pandascrow.io cover.png">
+
+    <meta name="google-site-verification" content="dT7gEdCqIrlHLQROle2vMiDvztjstXpw43jLnjBWjuM" />
     <!--External Stylesheets css-->
 
     <!-- Bootstrap -->
@@ -35,6 +51,21 @@
 
       gtag('config', 'G-L6E52DCJYT');
     </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "url": "https://pandascrow.io/",
+      "logo": "assets/images/logo.png"
+    }
+    </script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MQL9L4N');</script>
+    <!-- End Google Tag Manager -->
     <!--[if lt IE 9]>
   <script src="assets/js/html5shiv.min.js"></script>
   <script src="assets/js/respond.min.js"></script>
@@ -42,6 +73,10 @@
 </head>
 
 <body data-spy="scroll" data-target=".navbar-default" data-offset="100">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQL9L4N"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <!-- Page Preloader -->
     <div id="loading-page">
         <div id="loading-center-page">
@@ -449,7 +484,7 @@
 
                                         <div class="item-inner">
                                             <p>
-                                                Nam libero tempore, cum soluta nobis est eligen di opt ios cumque nihil impedit quo minus id quo d maxime placeat facere possimus. Sed ut perspi ciatis unde omnis iste natus error sit </p>
+                                                Scrow is user friendly and very accessible, I haven't experienced any hitch ups yet.</p>
                                             <div class="rating">
                                                 <span class="icon_star"></span>
                                                 <span class="icon_star"></span>
@@ -516,7 +551,7 @@
 
                                         <div class="item-inner">
                                             <p>
-                                                Nam libero tempore, cum soluta nobis est eligen di opt ios cumque nihil impedit quo minus id quo d maxime placeat facere possimus. Sed ut perspi ciatis unde omnis iste natus error sit </p>
+                                                I don't have to beg for trust, my clients when I mention to them I receive payment with Pandascrow, feel safe all ready to get started, this has increased our sales up to 45% </p>
 
                                             <div class="rating">
                                                 <span class="icon_star"></span>
@@ -538,7 +573,7 @@
 
                                         <div class="item-inner">
                                             <p>
-                                                Nam libero tempore, cum soluta nobis est eligen di opt ios cumque nihil impedit quo minus id quo d maxime placeat facere possimus. Sed ut perspi ciatis unde omnis iste natus error sit </p>
+                                                You wanna know how we grew from 1 to 50%? Pandascrow is the secret. I love you guys. </p>
 
                                             <div class="rating">
                                                 <span class="icon_star"></span>
@@ -560,7 +595,7 @@
 
                                         <div class="item-inner">
                                             <p>
-                                                Nam libero tempore, cum soluta nobis est eligen di opt ios cumque nihil impedit quo minus id quo d maxime placeat facere possimus. Sed ut perspi ciatis unde omnis iste natus error sit </p>
+                                                In the Agricultural sector, trust is an important sector of growth between inter-trade between farmers and merchant/vendors/businesses. We strive to lead the pack in the industry. We couldn't have done it better without pandascrow.</p>
 
                                             <div class="rating">
                                                 <span class="icon_star"></span>
@@ -570,7 +605,7 @@
                                                 <span class="icon_star"></span>
                                             </div>
                                             <div class="avatar-info">
-                                                <h4>Ethan Nguyen</h4>
+                                                <h4>Aquila Kalagbor</h4>
                                             </div>
                                         </div>
                                     </div>
@@ -582,7 +617,7 @@
 
                                         <div class="item-inner">
                                             <p>
-                                                Nam libero tempore, cum soluta nobis est eligen di opt ios cumque nihil impedit quo minus id quo d maxime placeat facere possimus. Sed ut perspi ciatis unde omnis iste natus error sit </p>
+                                                Gobble 'n' Gulp owes a lot to Pandascrow for existing just at the right time to help my business gain credibility, several times safe transaction has been recorded ever since I went from traditional payment acceptance to digital escrow payment acceptance. </p>
 
                                             <div class="rating">
                                                 <span class="icon_star"></span>
@@ -592,7 +627,7 @@
                                                 <span class="icon_star"></span>
                                             </div>
                                             <div class="avatar-info">
-                                                <h4>Jack Martin</h4>
+                                                <h4>Precious Ben</h4>
                                             </div>
                                         </div>
                                     </div>
@@ -666,13 +701,13 @@
                         <div class="col-centered col-lg-12 col-md-12">
                             <div class="client-slider">
                                 <div class="item">
-                                    <img src="assets/images/clients/logo1.png" class="img-responsive" title="Circlepanda">
+                                    <img src="assets/images/clients/logo1.png" class="margin-auto img-responsive" title="Circlepanda">
                                 </div>
-                                <div class="item text-center">
-                                    <img src="assets/images/clients/logo2.png" class="img-responsive" title="Chatbot">
+                                <div class="item">
+                                    <img src="assets/images/clients/logo2.png" class="margin-auto img-responsive" title="Chatbot">
                                 </div>
-                                <div class="item text-center">
-                                    <img src="assets/images/clients/logo3.png" class="img-responsive" title="Farmsby">
+                                <div class="item">
+                                    <img src="assets/images/clients/logo3.png" class="margin-auto img-responsive" title="Farmsby">
                                 </div>
                             </div>
                         </div>
